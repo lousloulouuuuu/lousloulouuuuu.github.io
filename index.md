@@ -6,7 +6,7 @@ I am a CTVA major and Computer Science minor at CSUF and I plan on graduating in
 
 * Lab 4
 
-    This lab was fun because we got to work with doubles in more depth. Doubles and int differences have always fascinated me since learning about them in our readings and lecture sessions. I felt like this lab really helped me grasp the difference and purpose between double and int parameters and data types. Double show the number in decimal for while and int maintain the whole number. 
+    This lab was fun because we got to work with doubles in more depth. Doubles and int differences have always fascinated me since learning about them in our readings and lecture sessions. I felt like this lab really helped me grasp the difference and purpose between double and int parameters and data types. The data type double show the number in decimal form while the int data type maintain the whole number. 
 
 * Lab 5
 
